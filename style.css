@@ -3,9 +3,21 @@
     margin: 0;
 }
 
+section,nav {
+    margin: 5px 0;
+}
+
 nav {
     background-color: orange;
     text-align: center;
     color: white;
     height: 50px;
+}
+
+
+section {
+    text-align: center;
+    height: 142px;
+    background: mediumslateblue;
+    color: white;
 }
