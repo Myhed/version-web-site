@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-section,nav {
+section,nav{
     margin: 5px 0;
 }
 
@@ -20,4 +20,11 @@ section {
     height: 142px;
     background: mediumslateblue;
     color: white;
+}
+
+footer {
+    background: tomato;
+    color: white;
+    height: 50px;
+    text-align: center;
 }
